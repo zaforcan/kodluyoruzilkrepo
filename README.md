@@ -2,7 +2,7 @@
 
 Bu repo [Patika Dev](https://patika.dev) Git Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-
+![github](img/git.jpg)
 
 ## Installation
 
